@@ -1,0 +1,10 @@
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\bin\Debug\ClienteSenamhi.exe.config
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\bin\Debug\ClienteSenamhi.exe
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\bin\Debug\ClienteSenamhi.pdb
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\obj\Debug\ClienteSenamhi.csprojAssemblyReference.cache
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\obj\Debug\ClienteSenamhi.Form1.resources
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\obj\Debug\ClienteSenamhi.Properties.Resources.resources
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\obj\Debug\ClienteSenamhi.csproj.GenerateResource.cache
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\obj\Debug\ClienteSenamhi.csproj.CoreCompileInputs.cache
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\obj\Debug\ClienteSenamhi.exe
+E:\Plataforma Proyecto\slnSenamhi\ClienteSenamhi\obj\Debug\ClienteSenamhi.pdb
